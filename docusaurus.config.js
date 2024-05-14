@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Malanukha kp-31',
   tagline: 'I like cats',
-  favicon: 'img/favicon.ico',
+  favicon: 'static/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://MalanukhaLilia.github.io',
@@ -69,7 +69,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'static/img/logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
