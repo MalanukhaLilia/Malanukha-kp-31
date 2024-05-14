@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'My website',
   tagline: 'I like cats',
-  favicon: 'test-site/static/img/icon.png',
+  favicon: 'static/img/icon.png',
 
   // Set the production url of your site here
   url: 'https://MalanukhaLilia.github.io',
